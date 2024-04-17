@@ -15,7 +15,7 @@ Cara penggunaan github untuk berkolaborasi mengelola pekerjaan
 
 
 ## Untuk Kontributor
-### 1. git clone
+### 1. git clonee
 
 Perintah "**git clone**" digunakan untuk mengunduh code yang ada pada repository.
 
